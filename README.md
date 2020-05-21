@@ -9,8 +9,8 @@
 - Rode as migrações.
 
 ```
-git clone https://github.com/rg3915/estoque.git
-cd estoque
+git clone https://github.com/RamonAlves1357/Controle_de_Estoque
+cd Controle_de_Estoque
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
