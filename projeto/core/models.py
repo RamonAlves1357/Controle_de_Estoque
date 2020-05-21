@@ -7,7 +7,7 @@ class TimeStampedModel(models.Model):
         auto_now_add=True,
         auto_now=False
     )
-    modifield = models.DataTimeField(
+    modifield = models.DateTimeField(
         'modificado em',
         auto_now_add=False,
         auto_now=True 
